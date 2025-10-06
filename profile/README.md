@@ -63,6 +63,7 @@ Below is a living index of resources that inform and inspire our work.
 
 ## Research
 
+- ✨ [Pretraining with hierarchical memories: separating long-tail and common knowledge, Apple](https://www.arxiv.org/abs/2510.02375)
 - [LoRA Learns Less and Forgets Less](https://arxiv.org/abs/2405.09673)
 - ✨ [The Bitter Lesson is coming for Tokenization](https://lucalp.dev/bitter-lesson-tokenization-and-blt/) 
 - [On the Way to LLM Personalization: Learning to Remember User Conversations, Apple Machine Learning Research](https://machinelearning.apple.com/research/on-the-way)
