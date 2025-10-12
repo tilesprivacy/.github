@@ -53,6 +53,7 @@ Below is a living index of resources that inform and inspire our work.
 
 
 ## Reference 
+- [The GPU-Poor LLM Gladiator Arena](https://huggingface.co/spaces/k-mktr/gpu-poor-llm-arena)
 - ✨ [Introducing Gemma 3n: The developer guide](https://developers.googleblog.com/en/introducing-gemma-3n-developer-guide/)
 - ✨ [Introducing the v0 composite model family, Vercel](https://vercel.com/blog/v0-composite-model-family#why-does-v0-need-a-composite-model-architecture?)
 - ✨ [The Kaitchup Index: A Leaderboard for Quantized LLMs](https://kaitchup.substack.com/p/the-kaitchup-index)
