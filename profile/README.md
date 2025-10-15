@@ -50,6 +50,8 @@ Below is a living index of resources that inform and inspire our work.
 - [Towards Feasible Private Distributed LLM Inference, Dria](https://dria.co/research/towards-feasible-private-distributed-llm-inference)
 - ✨ [ChatGPT Memory and the Bitter Lesson](https://www.shloked.com/writing/chatgpt-memory-bitter-lesson)
 - ✨ [OpenPoke: Recreating Poke's Architecture](https://www.shloked.com/writing/openpoke)
+- [Anthropic's Opinionated Memory Bet](https://shloked.com/writing/claude-memory-tool)
+- [Mind the Trust Gap: Fast, Private Local-to-Cloud LLM Chat](https://hazyresearch.stanford.edu/blog/2025-05-12-security)
 
 
 ## Reference 
