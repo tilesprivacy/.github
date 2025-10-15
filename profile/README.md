@@ -56,6 +56,7 @@ Below is a living index of resources that inform and inspire our work.
 
 
 ## Reference 
+- ✨ [Dria Inference Arena – Compare Benchmarks Across LLMs, Inference Engines & Hardware](https://dria.co/inference-arena)
 - [The GPU-Poor LLM Gladiator Arena](https://huggingface.co/spaces/k-mktr/gpu-poor-llm-arena)
 - ✨ [The Kaitchup Index: A Leaderboard for Quantized LLMs](https://kaitchup.substack.com/p/the-kaitchup-index)
 - [InferenceMAX™: Open Source Inference Benchmarking](https://newsletter.semianalysis.com/p/inferencemax-open-source-inference)
