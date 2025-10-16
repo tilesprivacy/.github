@@ -19,6 +19,7 @@ Below is a living index of resources that inform and inspire our work.
 ## Research
 
 - ✨ [mem-agent: Equipping LLM Agents with Memory Using RL](https://dria.co/research/mem-agent:-equipping-llm-agents-with-memory-using-rl)
+- ✨ [Jan-nano Technical Report](https://arxiv.org/abs/2506.22760)
 - ✨ [LoRA Without Regret](https://thinkingmachines.ai/blog/lora/)
 - ✨[A Preliminary Report On Edge-Verified Machine Learning (evML)](https://github.com/exo-explore/evML/blob/main/A_Preliminary_Report_On_evML.pdf)
 - ✨ [Pretraining with hierarchical memories: separating long-tail and common knowledge, Apple](https://www.arxiv.org/abs/2510.02375)
