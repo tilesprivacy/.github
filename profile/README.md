@@ -4,7 +4,7 @@
   </a>
 </p>
 <p align="center">
-  Private, on-device custodian of your digital memory, ensuring every agent you use is personalized to you, on your terms.
+ Private, on-device AI memory that personalizes the agents you use, on your terms.
 </p>
             <p>
  We'd love to partner with early-stage companies to build together. Join us in the Tiles <a href="https://discord.gg/yp3xQbHT" className="underline" target="_blank" rel="noopener noreferrer">Discord</a> server. Subscribe to our blog <a href="https://neurons.pub/" className="underline" target="_blank" rel="noopener noreferrer">Neurons</a> for updates on on-device AI and personalization research. 
