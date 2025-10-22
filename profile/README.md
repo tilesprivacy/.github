@@ -18,6 +18,7 @@ Below is a living index of resources that inform and inspire our work.
 
 ## Research
 
+- ✨ [The Continual Learning Problem, Jessy Lin](https://jessylin.com/2025/10/20/continual-learning/)
 - ✨ [mem-agent: Equipping LLM Agents with Memory Using RL](https://dria.co/research/mem-agent:-equipping-llm-agents-with-memory-using-rl)
 - ✨ [Jan-nano Technical Report](https://arxiv.org/abs/2506.22760)
 - ✨ [LoRA Without Regret](https://thinkingmachines.ai/blog/lora/)
