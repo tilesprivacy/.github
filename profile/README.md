@@ -16,6 +16,10 @@ Consider supporting our research and open-source projects through <a href="https
 # Resources
 Below is a living index of resources that inform and inspire our work.
 
+## Writings
+
+- ✨ [Why Tech Needs Personalization](https://om.co/2025/10/29/why-tech-needs-personalization/)
+
 ## Research
 
 - ✨ [The Continual Learning Problem, Jessy Lin](https://jessylin.com/2025/10/20/continual-learning/)
@@ -55,7 +59,6 @@ Below is a living index of resources that inform and inspire our work.
 - ✨ [OpenPoke: Recreating Poke's Architecture](https://www.shloked.com/writing/openpoke)
 - [Anthropic's Opinionated Memory Bet](https://shloked.com/writing/claude-memory-tool)
 - [Mind the Trust Gap: Fast, Private Local-to-Cloud LLM Chat](https://hazyresearch.stanford.edu/blog/2025-05-12-security)
-
 
 ## Reference 
 - ✨ [Dria Inference Arena – Compare Benchmarks Across LLMs, Inference Engines & Hardware](https://dria.co/inference-arena)
