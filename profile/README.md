@@ -18,6 +18,7 @@ Below is a living index of resources that inform and inspire our work.
 
 ## Writings
 
+- ✨ [The Memory Walled Garden](https://asimovaddendum.substack.com/p/the-memory-walled-garden)
 - ✨ [Why Tech Needs Personalization](https://om.co/2025/10/29/why-tech-needs-personalization/)
 
 ## Research
@@ -77,11 +78,7 @@ Below is a living index of resources that inform and inspire our work.
 - [Reverse-engineering GGUF | Post-Training Quantization](https://www.youtube.com/watch?v=vW30o4U9BFE)
 - [Choosing a GGUF Model: K-Quants, I-Quants, and Legacy Formats](https://kaitchup.substack.com/p/choosing-a-gguf-model-k-quants-i)
 - [Reference implementation of the Transformer architecture optimized for Apple Neural Engine](https://github.com/apple/ml-ane-transformers)
-- [Apple Developer, Technotes, Learn about specific development topics through these in-depth technical articles.](https://developer.apple.com/documentation/technotes/)
-- [The Apple Wiki](https://theapplewiki.com/wiki/Main_Page)
 - [LLMs on a Budget](https://benjaminmarie.gumroad.com/l/llms-on-a-budget)
-
-Resource inspired from [GPU Glossary, Modal](https://modal.com/gpu-glossary/perf)
 
 -------
 Copyright © 2025, Tiles. All rights reserved.
