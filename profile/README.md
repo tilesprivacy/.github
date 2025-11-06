@@ -62,7 +62,10 @@ Below is a living index of resources that inform and inspire our work.
 - [Mind the Trust Gap: Fast, Private Local-to-Cloud LLM Chat](https://hazyresearch.stanford.edu/blog/2025-05-12-security)
 
 ## Reference 
-- ✨ [Dria Inference Arena – Compare Benchmarks Across LLMs, Inference Engines & Hardware](https://dria.co/inference-arena)
+- ✨ [Foundation Models, Apple Developer Documentation](https://developer.apple.com/documentation/FoundationModels)
+- ✨ [User-Agent header, MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers/User-Agent)
+- ✨ [Modeflile Reference, Ollama Documentation](https://ollama.readthedocs.io/en/modelfile/)
+- [Dria Inference Arena – Compare Benchmarks Across LLMs, Inference Engines & Hardware](https://dria.co/inference-arena)
 - [The GPU-Poor LLM Gladiator Arena](https://huggingface.co/spaces/k-mktr/gpu-poor-llm-arena)
 - ✨ [The Kaitchup Index: A Leaderboard for Quantized LLMs](https://kaitchup.substack.com/p/the-kaitchup-index)
 - [InferenceMAX™: Open Source Inference Benchmarking](https://newsletter.semianalysis.com/p/inferencemax-open-source-inference)
