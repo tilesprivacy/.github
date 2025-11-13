@@ -16,8 +16,9 @@ Consider supporting our research and open-source projects through <a href="https
 # Resources
 Below is a living index of resources that inform and inspire our work.
 
-## Writings
+## Motivations
 
+- ✨ [This is Cuba's Netflix, Hulu, and Spotify – all without the internet](https://www.youtube.com/watch?v=fTTno8D-b2E)
 - ✨ [The Memory Walled Garden](https://asimovaddendum.substack.com/p/the-memory-walled-garden)
 - ✨ [Why Tech Needs Personalization](https://om.co/2025/10/29/why-tech-needs-personalization/)
 
