@@ -7,9 +7,9 @@
  Private, on-device AI memory that personalizes the agents you use, on your terms.
 </p>
             <p>
- We'd love to partner with early-stage companies to build together. Join us in the Tiles <a href="https://discord.gg/yp3xQbHT" className="underline" target="_blank" rel="noopener noreferrer">Discord</a> server. Subscribe to our blog <a href="https://neurons.pub/" className="underline" target="_blank" rel="noopener noreferrer">Neurons</a> for updates on on-device AI and personalization research. 
+ We'd love to partner with early-stage companies to build together. Join us in the Tiles <a href="https://discord.gg/yp3xQbHT" className="underline" target="_blank" rel="noopener noreferrer">Discord</a> server. Subscribe to our <a href="https://blog.tiles.run/" className="underline" target="_blank" rel="noopener noreferrer">blog</a> for updates on on-device AI and personalization research. 
 
-Consider supporting our research and open-source projects through <a href="https://github.com/sponsors/tileshq" className="underline" target="_blank" rel="noopener noreferrer">Github Sponsors</a>.
+Consider supporting our work through <a href="https://github.com/sponsors/tileshq" className="underline" target="_blank" rel="noopener noreferrer">Github Sponsors</a>.
 
 </p>
 
@@ -21,6 +21,7 @@ Below is a living index of resources that inform and inspire our work.
 - ✨ [This is Cuba's Netflix, Hulu, and Spotify – all without the internet](https://www.youtube.com/watch?v=fTTno8D-b2E)
 - ✨ [The Memory Walled Garden](https://asimovaddendum.substack.com/p/the-memory-walled-garden)
 - ✨ [Why Tech Needs Personalization](https://om.co/2025/10/29/why-tech-needs-personalization/)
+- [Cuba's Underground Gaming Network](https://www.youtube.com/watch?v=lEplzHraw3c)
 
 ## Research
 
