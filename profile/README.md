@@ -84,7 +84,8 @@ Below is a living index of resources that inform and inspire our work.
 - [Reverse-engineering GGUF | Post-Training Quantization](https://www.youtube.com/watch?v=vW30o4U9BFE)
 - [Choosing a GGUF Model: K-Quants, I-Quants, and Legacy Formats](https://kaitchup.substack.com/p/choosing-a-gguf-model-k-quants-i)
 - [Reference implementation of the Transformer architecture optimized for Apple Neural Engine](https://github.com/apple/ml-ane-transformers)
-- [LLMs on a Budget](https://benjaminmarie.gumroad.com/l/llms-on-a-budget)
+- ✨ [LLMs on a Budget](https://benjaminmarie.gumroad.com/l/llms-on-a-budget)
+- ✨ [Personalized Machine Learning](https://cseweb.ucsd.edu/~jmcauley/pml/)
 
 -------
 Copyright © 2025, Tiles Privacy. All rights reserved.
