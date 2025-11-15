@@ -87,4 +87,4 @@ Below is a living index of resources that inform and inspire our work.
 - [LLMs on a Budget](https://benjaminmarie.gumroad.com/l/llms-on-a-budget)
 
 -------
-Copyright © 2025, Tiles. All rights reserved.
+Copyright © 2025, Tiles Privacy. All rights reserved.
