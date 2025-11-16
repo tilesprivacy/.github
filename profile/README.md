@@ -4,7 +4,7 @@
   </a>
 </p>
 <p align="center">
- Building the future of software personalisation with decentralised memory networks.
+ Building the future of software personalization with decentralized memory networks. 
 </p>
             <p>
  We'd love to partner with early-stage companies to build together. Join us in the Tiles <a href="https://discord.gg/yp3xQbHT" className="underline" target="_blank" rel="noopener noreferrer">Discord</a> server. Subscribe to our <a href="https://www.blog.tiles.run/" className="underline" target="_blank" rel="noopener noreferrer">blog</a> for updates on on-device AI and software personalization research. 
