@@ -29,6 +29,7 @@ Below is a living index of resources that inform and inspire our work.
 - [The Bitter Lesson of LLM Extensions](https://www.sawyerhood.com/blog/llm-extension)
 - ✨ [The Continual Learning Problem, Jessy Lin](https://jessylin.com/2025/10/20/continual-learning/)
 - ✨ [mem-agent: Equipping LLM Agents with Memory Using RL](https://dria.co/research/mem-agent:-equipping-llm-agents-with-memory-using-rl)
+- ✨ [Xet is on the Hub](https://huggingface.co/blog/xet-on-the-hub)
 - ✨ [Jan-nano Technical Report](https://arxiv.org/abs/2506.22760)
 - ✨ [Self-driving infrastructure](https://vercel.com/blog/self-driving-infrastructure)
 - ✨ [LoRA Without Regret](https://thinkingmachines.ai/blog/lora/)
