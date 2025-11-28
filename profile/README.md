@@ -23,7 +23,6 @@ Below is a living index of resources that inform and inspire our work.
 - ✨ [Weathering Software Winter](https://www.youtube.com/watch?v=9TJuOwy4aGA&t=968s)
 - ✨ [The Memory Walled Garden](https://asimovaddendum.substack.com/p/the-memory-walled-garden)
 - ✨ [Why Tech Needs Personalization](https://om.co/2025/10/29/why-tech-needs-personalization/)
-- [Cuba's Underground Gaming Network](https://www.youtube.com/watch?v=lEplzHraw3c)
 
 ## Research
 
