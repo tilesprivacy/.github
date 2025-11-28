@@ -19,6 +19,8 @@ Below is a living index of resources that inform and inspire our work.
 ## Motivations
 
 - ✨ [This is Cuba's Netflix, Hulu, and Spotify – all without the internet](https://www.youtube.com/watch?v=fTTno8D-b2E)
+- [Cuba's Underground Gaming Network](https://www.youtube.com/watch?v=lEplzHraw3c)
+- ✨ [Weathering Software Winter](https://www.youtube.com/watch?v=9TJuOwy4aGA&t=968s)
 - ✨ [The Memory Walled Garden](https://asimovaddendum.substack.com/p/the-memory-walled-garden)
 - ✨ [Why Tech Needs Personalization](https://om.co/2025/10/29/why-tech-needs-personalization/)
 - [Cuba's Underground Gaming Network](https://www.youtube.com/watch?v=lEplzHraw3c)
@@ -32,6 +34,7 @@ Below is a living index of resources that inform and inspire our work.
 - ✨ [Xet is on the Hub](https://huggingface.co/blog/xet-on-the-hub)
 - ✨ [MIR, Machine Intelligence Resource, A naming schema for AIGC/ML work, Darkshapes](https://huggingface.co/darkshapes/MIR_)
 - ✨ [Jan-nano Technical Report](https://arxiv.org/abs/2506.22760)
+- ✨ [Memory Layers at Scale, Meta FAIR](https://arxiv.org/abs/2412.09764)
 - ✨ [Self-driving infrastructure](https://vercel.com/blog/self-driving-infrastructure)
 - ✨ [LoRA Without Regret](https://thinkingmachines.ai/blog/lora/)
 - ✨[A Preliminary Report On Edge-Verified Machine Learning (evML)](https://github.com/exo-explore/evML/blob/main/A_Preliminary_Report_On_evML.pdf)
