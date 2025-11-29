@@ -69,6 +69,7 @@ Below is a living index of resources that inform and inspire our work.
 - ✨ [OpenPoke: Recreating Poke's Architecture](https://www.shloked.com/writing/openpoke)
 - [Anthropic's Opinionated Memory Bet](https://shloked.com/writing/claude-memory-tool)
 - [Mind the Trust Gap: Fast, Private Local-to-Cloud LLM Chat](https://hazyresearch.stanford.edu/blog/2025-05-12-security)
+- [MCP Colors: Systematically deal with prompt injection risk](https://timkellogg.me/blog/2025/11/03/colors)
 
 ## Reference 
 - ✨ [Foundation Models, Apple Developer Documentation](https://developer.apple.com/documentation/FoundationModels)
