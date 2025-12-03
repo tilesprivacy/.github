@@ -70,6 +70,7 @@ Below is a living index of resources that inform and inspire our work.
 - [Anthropic's Opinionated Memory Bet](https://shloked.com/writing/claude-memory-tool)
 - [Mind the Trust Gap: Fast, Private Local-to-Cloud LLM Chat](https://hazyresearch.stanford.edu/blog/2025-05-12-security)
 - [MCP Colors: Systematically deal with prompt injection risk](https://timkellogg.me/blog/2025/11/03/colors)
+- [New physical attacks are quickly diluting secure enclave defenses from Nvidia, AMD, and Intel](https://arstechnica.com/security/2025/10/new-physical-attacks-are-quickly-diluting-secure-enclave-defenses-from-nvidia-amd-and-intel/)
 
 ## Reference 
 - ✨ [Foundation Models, Apple Developer Documentation](https://developer.apple.com/documentation/FoundationModels)
