@@ -75,7 +75,7 @@ Below is a living index of resources that inform and inspire our work.
 ## Reference 
 - ✨ [Foundation Models, Apple Developer Documentation](https://developer.apple.com/documentation/FoundationModels)
 - ✨ [User-Agent header, MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers/User-Agent)
-- ✨ [Modeflile Reference, Ollama Documentation](https://ollama.readthedocs.io/en/modelfile/)
+- ✨ [Modeflile Reference, Ollama Documentation](https://docs.ollama.com/modelfile)
 - [Dria Inference Arena – Compare Benchmarks Across LLMs, Inference Engines & Hardware](https://dria.co/inference-arena)
 - [The GPU-Poor LLM Gladiator Arena](https://huggingface.co/spaces/k-mktr/gpu-poor-llm-arena)
 - ✨ [The Kaitchup Index: A Leaderboard for Quantized LLMs](https://kaitchup.substack.com/p/the-kaitchup-index)
