@@ -22,8 +22,9 @@ Below is a living index of resources that inform and inspire our work.
 - [Cuba's Underground Gaming Network](https://www.youtube.com/watch?v=lEplzHraw3c)
 - ✨ [Weathering Software Winter](https://www.youtube.com/watch?v=9TJuOwy4aGA&t=968s)
 - ✨ [The Memory Walled Garden](https://asimovaddendum.substack.com/p/the-memory-walled-garden)
+- ✨ [[The Resonant Computing Manifesto](https://resonantcomputing.org)
 - ✨ [Why Tech Needs Personalization](https://om.co/2025/10/29/why-tech-needs-personalization/)
-- [File over app[(https://stephango.com/file-over-app)
+- [File over app](https://stephango.com/file-over-app)
 
 ## Research
 
