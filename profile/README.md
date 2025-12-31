@@ -81,6 +81,7 @@ Below is a living index of resources that inform and inspire our work.
 
 ## Reference 
 
+- [Ellora: Enhancing LLMs with LoRA](https://github.com/codelion/ellora_)
 - ✨ [Understanding AI/LLM Quantisation Through Interactive Visualisations](https://smcleod.net/2024/07/understanding-ai/llm-quantisation-through-interactive-visualisations/)
 - ✨ [User-Agent header, MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers/User-Agent)
 - ✨ [Modelfile Reference, Ollama Documentation](https://docs.ollama.com/modelfile)
