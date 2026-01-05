@@ -103,4 +103,4 @@ Below is a living index of resources that inform and inspire our work.
 - ✨ [LLMs on a Budget](https://benjaminmarie.gumroad.com/l/llms-on-a-budget)
 - ✨ [Personalized Machine Learning](https://cseweb.ucsd.edu/~jmcauley/pml/)
 -------
-Copyright © 2025, Tiles Privacy. All rights reserved.
+Copyright © 2026, Tiles Privacy. All rights reserved.
