@@ -29,8 +29,6 @@ Below is a living index of resources that inform and inspire our work.
 
 ## Research
 
-
-
 - ✨ [Evolution of Apple M Series Chips | From M1 to M5](https://www.youtube.com/watch?v=sLXzMK6JBV8)
 - [The Bitter Lesson of LLM Extensions](https://www.sawyerhood.com/blog/llm-extension)
 - ✨ [The Continual Learning Problem, Jessy Lin](https://jessylin.com/2025/10/20/continual-learning/)
@@ -78,6 +76,7 @@ Below is a living index of resources that inform and inspire our work.
 - [Mind the Trust Gap: Fast, Private Local-to-Cloud LLM Chat](https://hazyresearch.stanford.edu/blog/2025-05-12-security)
 - [MCP Colors: Systematically deal with prompt injection risk](https://timkellogg.me/blog/2025/11/03/colors)
 - [New physical attacks are quickly diluting secure enclave defenses from Nvidia, AMD, and Intel](https://arstechnica.com/security/2025/10/new-physical-attacks-are-quickly-diluting-secure-enclave-defenses-from-nvidia-amd-and-intel/)
+- [Benchmarking Honcho](https://blog.plasticlabs.ai/research/Benchmarking-Honcho)
 
 ## Reference 
 
